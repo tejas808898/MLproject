@@ -149,7 +149,7 @@ print("\nPredicted Category:", prediction[0])
 # STEP 1: Install Required Libraries
 # =========================================================
 
-!pip install pandas scikit-learn
+
 
 # =========================================================
 # STEP 2: Import Libraries
