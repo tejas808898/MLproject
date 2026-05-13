@@ -170,7 +170,7 @@ from sklearn.metrics import accuracy_score
 
 print("UPLOAD legal_documents.csv FILE")
 
-uploaded = files.upload()
+
 
 # Read dataset
 df = pd.read_csv("legal_documents.csv")
