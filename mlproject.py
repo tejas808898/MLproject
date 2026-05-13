@@ -156,7 +156,7 @@ print("\nPredicted Category:", prediction[0])
 # =========================================================
 
 import pandas as pd
-from google.colab import files
+
 
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
